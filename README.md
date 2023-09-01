@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Js**
+🌱 I’m currently learning **React Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
