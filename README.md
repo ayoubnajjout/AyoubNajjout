@@ -4,7 +4,7 @@
 <h3 align="center">A passionate computer science student from Morocco.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubnajjout&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubnajjout" /> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif">
 <br>
 - 🌱 I’m currently learning **React Js**
 
