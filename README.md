@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-🌱 I’m currently learning **React Js**
+🌱 I’m currently learning **Docker**
 
 📫 How to reach me **Ayoub.najjout@etu.uae.ac.ma**
 
