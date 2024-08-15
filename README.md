@@ -1,12 +1,12 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://AyoubNajjout.io)
 
-<h3 align="center">
+<h1 align="center">
   <b>Hi 👋, I'm Ayoub Najjout</b>  
-</h3>
+</h1>
 
-<p align="center">
+<h3 align="center">
   <i>Software Engineer | AI & ML Enthusiast</i>  
-</p>
+</h3>
 
 <p align="center">
   Based in Morocco 🇲🇦  
@@ -15,7 +15,6 @@
 <p align="center">
   Passionate about building innovative solutions through software development and exploring the endless possibilities of AI and machine learning.
 </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubnajjout&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubnajjout" /> </p>
 
