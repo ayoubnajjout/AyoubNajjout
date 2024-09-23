@@ -80,7 +80,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://iconape.com/wp-content/png_logo_vector/mongodb.png" alt="mongodb" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="jupyter" width="40" height="40"/>
