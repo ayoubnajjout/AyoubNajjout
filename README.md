@@ -47,7 +47,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=jupyternotebook,docker,postman,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,git)](https://skillicons.dev)
 
 ---
 
