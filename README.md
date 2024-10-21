@@ -9,10 +9,6 @@
 </h3>
 
 <p align="center">
-  Based in Morocco 🇲🇦  
-</p>
-
-<p align="center">
   Passionate about building innovative solutions through software development and exploring the endless possibilities of AI and machine learning.
 </p>
 
