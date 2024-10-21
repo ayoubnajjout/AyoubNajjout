@@ -31,9 +31,10 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/ayoubnajjout/" target="_blank">
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 </a>
+
 ---
 
 ### Languages:
