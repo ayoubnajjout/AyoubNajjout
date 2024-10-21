@@ -29,7 +29,7 @@
 ---
 
 ### Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]("https://www.linkedin.com/in/ayoubnajjout/")
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayoubnajjout/)
 
 ---
 
