@@ -38,6 +38,7 @@
 ---
 
 ### Languages:
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,ts,js)](https://skillicons.dev)
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
