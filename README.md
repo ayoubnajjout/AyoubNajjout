@@ -29,11 +29,7 @@
 ---
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/ayoubnajjout/" target="_blank">
-  
 [![My Skills](https://skillicons.dev/icons?i=linkedin)]("https://www.linkedin.com/in/ayoubnajjout/")
-
-</a>
 
 ---
 
