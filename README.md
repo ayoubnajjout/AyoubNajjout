@@ -1,7 +1,6 @@
 <h1 align="center">
   <b>Hi 👋, I'm Ayoub Najjout</b>  
 </h1>
-
 <h3 align="center">
   <i>Software Engineer | AI & Data Science Enthusiast</i>  
 </h3>
