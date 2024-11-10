@@ -1,5 +1,3 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://AyoubNajjout.io)
-
 <h1 align="center">
   <b>Hi 👋, I'm Ayoub Najjout</b>  
 </h1>
@@ -16,9 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayoubnajjout&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubnajjout" /> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-
-### 🌱 I’m currently learning **ML**
+### 🌱 I’m currently working on **[ParadoxAI](https://github.com/username/paradoxai)**
 
 ### 📫 How to reach me **Ayoub.najjout@etu.uae.ac.ma**
 
