@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <i>Software Engineer | AI & ML Enthusiast</i>  
+  <i>Software Engineer | AI & Data Science Enthusiast</i>  
 </h3>
 
 <p align="center">
