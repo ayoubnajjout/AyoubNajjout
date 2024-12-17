@@ -15,9 +15,7 @@
 
 ### 🌱 I’m currently working on **[ParadoxAI](https://github.com/username/paradoxai)**
 
-### 📫 How to reach me:
-
-![My Skills](https://skillicons.dev/icons?i=gmail) **ayoub.najjout@etu.uae.ac.ma**
+### 📫 How to reach me: **ayoub.najjout@etu.uae.ac.ma**
 
 ---
 
