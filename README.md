@@ -37,8 +37,6 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubnajjout&theme=dark" alt="ayoubnajjout" /></p>
+![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubnajjout&show_icons=true&locale=en&theme=dark" alt="ayoubnajjout" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubnajjout&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayoubnajjout" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
