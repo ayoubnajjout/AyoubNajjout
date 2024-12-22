@@ -38,6 +38,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubnajjout&show_icons=true&theme=dark" alt="ayoubnajjout" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubnajjout&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayoubnajjout" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react" alt="ayoubnajjout" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubnajjout&show_icons=true&locale=en&layout=compact&theme=react" alt="ayoubnajjout" />
 </p>
