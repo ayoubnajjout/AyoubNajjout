@@ -38,6 +38,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react" alt="ayoub's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubnajjout&show_icons=true&theme=react" alt="ayoub's github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubnajjout&show_icons=true&locale=en&layout=compact&theme=react" alt="ayoub's most used programming languages" />
 </p>
