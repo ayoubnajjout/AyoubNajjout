@@ -37,6 +37,7 @@
 
 ---
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubnajjout)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubnajjout&show_icons=true&theme=dark" alt="ayoubnajjout" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubnajjout&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayoubnajjout" />
+</p>
