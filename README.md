@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,ts,js)](https://skillicons.dev)
 
 ### Frameworks and Libraries:
-[![My Skills](https://skillicons.dev/icons?i=react,angular,flutter,tailwindcss,spring,fastapi,flask,pandas,numpy,scikit-learn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,flutter,tailwindcss,spring,fastapi,flask,tensorflow)](https://skillicons.dev)
 
 ### Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
