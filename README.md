@@ -13,9 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayoubnajjout&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubnajjout" /> 
 </p>
 
-### 🌱 I’m currently working on **[ParadoxAI](https://github.com/username/paradoxai)**
-
-### 📫 How to reach me: **ayoub.najjout@etu.uae.ac.ma**
+### 📫 How to reach me: **najjout.ayoub1@gmail.com**
 
 ---
 
