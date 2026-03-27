@@ -1,24 +1,48 @@
 <div align="center">
 
 # Ayoub Najjout
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=00E676&center=true&vCenter=true&width=500&lines=Master's+in+AI+%26+Data+Science;Software+Engineer+%7C+Big+Data+%7C+MLOps)](https://git.io/typing-svg)
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayoubnajjout&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0f1923&title_color=00e676&icon_color=00e676&text_color=c9d1d9&ring_color=00e676&border_radius=6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubnajjout&theme=github-dark-blue&hide_border=true&background=0f1923&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=3d5a6e&border_radius=6" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&theme=github_dark&hide_border=true&bg_color=0f1923&title_color=00e676&text_color=c9d1d9&border_radius=6&langs_count=8" />
+### Master's in AI & Data Science · Software Engineer · Big Data & MLOps
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0a0e17&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67615&hide_border=true&custom_title=contribution+activity&title_color=00e676&radius=6)](https://github.com/ayoubnajjout)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Currently+%40+TE+Connectivity+%E2%80%94+Data+Engineering;AI+%7C+Big+Data+%7C+Real-Time+Pipelines)](https://git.io/typing-svg)
 
-<br/>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayoubnajjout&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ayoubnajjout)
+### GitHub Stats
 
-</div>****
+<a href="https://github.com/ayoubnajjout">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ayoubnajjout&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=c9d1d9&ring_color=00e676&rank_icon=percentile&border_radius=8" />
+</a>
+<a href="https://github.com/ayoubnajjout">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubnajjout&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
+</a>
+
+---
+
+### Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubnajjout&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=555e6e&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
+
+---
+
+### Languages Breakdown
+
+<a href="https://github.com/ayoubnajjout">
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
+</a>
+<a href="https://github.com/ayoubnajjout">
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
+</a>
+
+---
+
+### Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67618&hide_border=true&custom_title=Contribution+Activity&title_color=00e676&radius=8)](https://github.com/ayoubnajjout)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayoubnajjout&style=flat-square&color=00e676&labelColor=0d1117&label=profile+views)
+
+</div>
