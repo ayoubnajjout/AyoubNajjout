@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Currently+%40+TE+Connectivity+%E2%80%94+Data+Engineering;AI+%7C+Big+Data+%7C+Real-Time+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Currently+%40+TE+Connectivity+%E2%80%94+IT+Business-Analyst;AI+%7C+Big+Data+%7C+Real-Time+Pipelines)](https://git.io/typing-svg)
 
 ---
 
