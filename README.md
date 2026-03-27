@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ayoub Najjout
+# NAJJOUT AYOUB
 ### Master's in AI & Data Science · Software Engineer · Big Data & ML
 
 <br/>
