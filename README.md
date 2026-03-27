@@ -5,41 +5,59 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Currently+%40+TE+Connectivity+%E2%80%94+IT+Business+Analyst;AI+%7C+Big+Data+%7C+Real-Time+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Currently+%40+TE+Connectivity+%E2%80%94+Data+Engineering;AI+%7C+Big+Data+%7C+Real-Time+Pipelines)](https://git.io/typing-svg)
 
 ---
 
 ### GitHub Stats
 
-<a href="https://github.com/ayoubnajjout">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ayoubnajjout&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=c9d1d9&ring_color=00e676&rank_icon=percentile&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ayoubnajjout&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=ffffff&title_color=1a7f3c&icon_color=1a7f3c&text_color=24292f&ring_color=1a7f3c&rank_icon=percentile&border_radius=8" />
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api?username=ayoubnajjout&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00e676&text_color=c9d1d9&ring_color=00e676&rank_icon=percentile&border_radius=8" />
-</a>
-<a href="https://github.com/ayoubnajjout">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=1a7f3c&text_color=24292f&border_radius=8&size_weight=0.5&count_weight=0.5" />
   <img height="195" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-</a>
+</picture>
 
 ---
 
 ### Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=555e6e&border_radius=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=555e6e&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=ffffff&stroke=d0d7de&ring=1a7f3c&fire=1a7f3c&currStreakLabel=1a7f3c&sideLabels=24292f&dates=57606a&border_radius=8" />
+  <img src="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=555e6e&border_radius=8" />
+</picture>
 
 ---
 
 ### Languages Breakdown
 
-<a href="https://github.com/ayoubnajjout">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=ffffff&title_color=1a7f3c&text_color=24292f&border_radius=8&size_weight=0.5&count_weight=0.5" />
   <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-</a>
-<a href="https://github.com/ayoubnajjout">
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=ffffff&title_color=1a7f3c&text_color=24292f&border_radius=8&size_weight=0.5&count_weight=0.5" />
   <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-</a>
+</picture>
 
 ---
 
 ### Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67618&hide_border=true&custom_title=Contribution+Activity&title_color=00e676&radius=8)](https://github.com/ayoubnajjout)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67618&hide_border=true&custom_title=Contribution+Activity&title_color=00e676&radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=ffffff&color=1a7f3c&line=1a7f3c&point=24292f&area=true&area_color=1a7f3c18&hide_border=true&custom_title=Contribution+Activity&title_color=1a7f3c&radius=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67618&hide_border=true&custom_title=Contribution+Activity&title_color=00e676&radius=8" />
+</picture>
 
 ---
 
