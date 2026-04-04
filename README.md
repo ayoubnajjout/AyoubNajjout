@@ -25,32 +25,6 @@
 
 ---
 
-### Contribution Streak
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=555e6e&border_radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=ffffff&stroke=d0d7de&ring=1a7f3c&fire=1a7f3c&currStreakLabel=1a7f3c&sideLabels=24292f&dates=57606a&border_radius=8" />
-  <img src="https://streak-stats.demolab.com/?user=ayoubnajjout&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=555e6e&border_radius=8" />
-</picture>
-
----
-
-### Languages Breakdown
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=ffffff&title_color=1a7f3c&text_color=24292f&border_radius=8&size_weight=0.5&count_weight=0.5" />
-  <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=ffffff&title_color=1a7f3c&text_color=24292f&border_radius=8&size_weight=0.5&count_weight=0.5" />
-  <img height="220" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ayoubnajjout&layout=pie&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9&border_radius=8&size_weight=0.5&count_weight=0.5" />
-</picture>
-
----
-
 ### Contribution Activity
 
 <picture>
