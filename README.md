@@ -25,16 +25,6 @@
 
 ---
 
-### Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67618&hide_border=true&custom_title=Contribution+Activity&title_color=00e676&radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=ffffff&color=1a7f3c&line=1a7f3c&point=24292f&area=true&area_color=1a7f3c18&hide_border=true&custom_title=Contribution+Activity&title_color=1a7f3c&radius=8" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubnajjout&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&area_color=00e67618&hide_border=true&custom_title=Contribution+Activity&title_color=00e676&radius=8" />
-</picture>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ayoubnajjout&style=flat-square&color=00e676&labelColor=0d1117&label=profile+views)
 
 </div>
